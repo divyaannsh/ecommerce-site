@@ -1835,7 +1835,7 @@ pre code {
 .table-danger td,
 .table-danger thead th,
 .table-danger tbody + tbody {
-  border-color: #ed969e;
+  border-color: #ed969e; 
 }
 
 .table-hover .table-danger:hover {
